@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent graduate student in BSc Economics and Mathematics and want to work as <br>a data scientist/analyst and am looking to start my career 
+I am a graduate student in BSc Economics and Mathematics and want to work as <br>a data scientist/analyst and am looking to start my career 
 
 
 ## 🌐 Socials:
